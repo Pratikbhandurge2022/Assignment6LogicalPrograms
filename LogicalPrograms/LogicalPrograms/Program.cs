@@ -5,12 +5,12 @@ namespace LogicalProgramming
     internal class Program
     {
         static void Main(string[] args)
-        {          
+        {
             //Console.WriteLine("Welcome To Logical Programming!");
 
-            .Console.WriteLine("Fibonacci Series Program");
-            Fibonacci f = new Fibonacci();
-            f.FindFibonacci();
+            //.Console.WriteLine("Fibonacci Series Program");
+            //Fibonacci f = new Fibonacci();
+            //f.FindFibonacci();
 
             //Console.WriteLine("Perfect Number Program!");
             //PerfectNumber pf = new PerfectNumber();
@@ -24,9 +24,9 @@ namespace LogicalProgramming
             //ReverseNumber rn = new ReverseNumber();
             //rn.Reverse();
 
-            //Console.WriteLine("Cupon Number Program!");
-            //CuponNumbers cn = new CuponNumbers();
-            //cn.CuponNumberGenerator();
+            Console.WriteLine("Cupon Number Program!");
+            CuponNumbers cn = new CuponNumbers();
+            cn.CuponNumberGenerator();
 
             //Console.WriteLine("Stopch Watch Program!");
             //StopWatch sw = new StopWatch();
