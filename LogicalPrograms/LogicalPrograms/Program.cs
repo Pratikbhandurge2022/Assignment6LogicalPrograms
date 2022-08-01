@@ -20,17 +20,17 @@ namespace LogicalProgramming
             //PrimeNumber pn = new PrimeNumber();
             //pn.primeNumber();
 
-            //Console.WriteLine("Reverse Number Program!");
-            //ReverseNumber rn = new ReverseNumber();
-            //rn.Reverse();
+            Console.WriteLine("Reverse Number Program!");
+            ReverseNumber rn = new ReverseNumber();
+            rn.Reverse();
 
             //Console.WriteLine("Cupon Number Program!");
             //CuponNumbers cn = new CuponNumbers();
             //cn.CuponNumberGenerator();
 
-            Console.WriteLine("Stopch Watch Program!");
-            StopWatch sw = new StopWatch();
-            sw.MeasureElapsedTime();
+            //Console.WriteLine("Stopch Watch Program!");
+            //StopWatch sw = new StopWatch();
+            //sw.MeasureElapsedTime();
 
 
         }
